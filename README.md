@@ -3,7 +3,7 @@
 ## 👨‍🎓 Integrantes
 
 * Gabriel Ambrosio Saraiva – RM XXXXX
-* João Victor Vendrameto – RM XXXXX
+* João Victor Vendrameto – RM 563665
 
 ---
 
